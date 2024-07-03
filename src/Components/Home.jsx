@@ -14,7 +14,7 @@ const Home = () => {
 
         <Carousel className='w-full mx-auto '>
           <div className="my-7 md:my-8  py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-12 cursor-default">
-            <div className='lg:mx-28 md:mb-11'><img width={300} src={banner1} alt="" /></div>
+            <div className='lg:mx-28 md:mb-11'><img width={285} src={banner1} alt="" /></div>
             <div className='md:w-1/2'>
               <h1 className='md:text-4xl text-3xl  font-semibold mb-3 text-neutralGray md:w-3/4 leading-snug '>Lessons and insights
                 <span className='leading-snug text-brandPrimary'> from 8 years</span></h1>
@@ -24,7 +24,7 @@ const Home = () => {
             </div>
           </div>
           <div className="my-8 md:my-8  py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-12 cursor-default">
-            <div  className='lg:mx-28 md:mb-11'><img  width={300} src={banner2} alt="" /></div>
+            <div  className='lg:mx-28 md:mb-11'><img  width={285} src={banner2} alt="" /></div>
             <div className='md:w-1/2'>
               <h1 className='md:text-4xl text-3xl font-semibold mb-3 text-neutralGray md:w-3/4 leading-snug '>Lets Learn and Earn Money
                 <span className='leading-snug text-brandPrimary'> in 4 Months</span></h1>
@@ -34,7 +34,7 @@ const Home = () => {
             </div>
           </div>
           <div className="my-8 md:my-8  py-12 flex flex-col md:flex-row-reverse items-center justify-between gap-12 cursor-default">
-            <div  className='lg:mx-28 md:mb-11'><img width={300} src={banner3} alt="" /></div>
+            <div  className='lg:mx-28 md:mb-11'><img width={285} src={banner3} alt="" /></div>
             <div className='md:w-1/2'>
               <h1 className='md:text-4xl text-3xl font-semibold mb-3 text-neutralGray md:w-3/4 leading-snug '>Lessons and insights
                 <span className='leading-snug text-brandPrimary'>from 8 years</span></h1>
