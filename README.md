@@ -21,7 +21,7 @@ You can view a live demo of the project [here](https://nexcent-web.vercel.app/).
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nexcent.git
+git clone https://github.com/iamsanthosh7/nexcent.git
 ```
 2. Navigate to the project directory:
 
@@ -40,7 +40,10 @@ npm install
 ```bash
 npm run dev
 ```
-2. Open your browser and navigate to http://localhost:3000 to see the website in action. 
+2. Open your browser and navigate to http://localhost:3000 to see the website in action.
+
+## Design
+The design for this project is available on Figma. You can view it [here.](https://www.figma.com/design/7hjPJRDz3Y55HcblatmjNA/Responsive-Landing-Page-Design-%7C-Website-Home-Page-Design-%7C-Agency-Website-UI-Design-(Community)?node-id=0-1&t=99fB4FxrTlEzCWQN-1)
 
 
 <h3>Screenshots of the Project 📸</h3>
