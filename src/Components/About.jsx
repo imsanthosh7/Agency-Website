@@ -1,5 +1,9 @@
 import React from 'react'
 import aboutimg from '../assets/Illustration2.png'
+import logo1 from '../assets/Members logo.png'
+import logo2 from '../assets/Event Bookings logo.png'
+import logo3 from '../assets/Clubslogo.png'
+import logo4 from '../assets/Paymentslogo.png'
 
 const About = () => {
     return (
@@ -32,14 +36,14 @@ const About = () => {
                     <div className='md:w-1/2 mx-auto flex sm:flex-row flex-col sm:items-center justify-around gap-12'>
                         <div className='space-y-8'>
                             <div className='flex item gap-4'>
-                                <img src="/src/assets/Members logo.png" alt="" />
+                                <img src={logo1} alt="" />
                                 <div>
                                     <h4 className='text-2xl text-neutralGray font-semibold '>2,245,341</h4>
                                     <p>Members</p>
                                 </div>
                             </div>
                             <div className='flex item gap-4'>
-                                <img src="src/assets/Event Bookings logo.png" alt="" />
+                                <img src={logo2} alt="" />
                                 <div>
                                     <h4 className='text-2xl text-neutralGray font-semibold '>828,867</h4>
                                     <p>Event Bookings</p>
@@ -48,14 +52,14 @@ const About = () => {
                         </div>
                         <div className='space-y-8'>
                             <div className='flex item gap-4'>
-                                <img src="/src/assets/Clubslogo.png" alt="" />
+                                <img src={logo3} alt="" />
                                 <div>
                                     <h4 className='text-2xl text-neutralGray font-semibold '>46,328</h4>
                                     <p>Clubs</p>
                                 </div>
                             </div>
                             <div className='flex item gap-4'>
-                                <img src="src\assets\Paymentslogo.png" alt="" />
+                                <img src={logo4} alt="" />
                                 <div>
                                     <h4 className='text-2xl text-neutralGray font-semibold '>1,926,436</h4>
                                     <p>Payments</p>
