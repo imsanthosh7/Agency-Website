@@ -1,18 +1,25 @@
+import blog1 from "../assets/marketing1.png"
+import blog2 from "../assets/marketing2.png"
+import blog3 from "../assets/marketing3.png"
+
+
+
+
 export const blogs = [
     {
         id: 1,
         title: "Creating Streamlined Safeguarding Processes with OneRen",
-        image: "/src/assets/marketing1.png"
+        image: blog1,
     },
     {
         id: 2,
         title: "What are your safeguarding responsibilities and how can you manage them?",
-        image: "/src/assets/marketing2.png"
+        image: blog2,
     },
     {
         id: 3,
         title: "Revamping the Membership Model with Triathlon Australia",
-        image: "/src/assets/marketing3.png"
+        image: blog3 ,
     },
 ]
 
